@@ -1,3 +1,14 @@
 theme: minima
 title: Curso Python
+authors:
+	matias:
+		name: Matias Cano
+		display_name: Mati C
+		email: matiasjosecc@gmail.com
+	
+	miguel:
+		name: Miguel Alfaro
+		display_name: Migue A
+		email: miguel.alfaro.a95@gmail.com
+
 header_pages:
