@@ -11,3 +11,6 @@ title: Curso Python
 
 - ["Clase 3"](/Clase3.html)
 
+- ["Clase 4"](/Clase4.html)
+
+- ["Clase 5"](/Clase5.html)
