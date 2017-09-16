@@ -15,15 +15,9 @@ title: Curso Python
 
 - ["Clase 5"](/Clase5.html)
 
-- ["TP final: ciudades.csv"](/tp_base/tp_base/ciudades.csv)
+- ["Clase 6"](/Clase5.html)
 
-- ["TP final: rutas.csv"](/tp_base/tp_base/rutas.csv)
+- ["Clase 7"](/Clase5.html)
 
-- ["TP final: tp.py"](/tp_base/tp_base/tp.py)
-
-- ["TP final: grafo.py"](/tp_base/tp_base/grafo.py)
-
-- ["TP final: heap.py"](/tp_base/tp_base/heap.py)
-
-- ["TP final: kml.py"](/tp_base/tp_base/kml.py)
+- ["Material TP Final"](/tp_base/tp_final.md)
 
