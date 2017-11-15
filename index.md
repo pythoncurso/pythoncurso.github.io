@@ -15,9 +15,9 @@ title: Curso Python
 
 - ["Clase 5"](/Clase5.html)
 
-- ["Clase 6"](/Clase5.html)
+- ["Clase 6"](/Clase6.html)
 
-- ["Clase 7"](/Clase5.html)
+- ["Clase 7"](/Clase7.html)
 
 - ["Material TP Final"](/tp_base/tp_final.md)
 
